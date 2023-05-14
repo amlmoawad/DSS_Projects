@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DSS\bin\Debug\DSS.exe.config
+C:\Users\user\source\repos\DSS\bin\Debug\DSS.exe
+C:\Users\user\source\repos\DSS\bin\Debug\DSS.pdb
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.Form1.resources
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.Properties.Resources.resources
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.exe
+C:\Users\user\source\repos\DSS\obj\Debug\DSS.pdb
